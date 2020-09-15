@@ -53,7 +53,7 @@ header .menu li a {
   color: white;
 }
 header .menu li:hover {
-  background-color: #000000;
+  background-color: #e21515;
   border-radius: 15px;
 
 }
@@ -65,7 +65,7 @@ figure .imagem_fundo {
   background-image: url("../img/fundo.jpeg"); 
   background-size: cover;
   height: 100%;
-  padding: 100px;
+  padding: 50px;
 }
 
 figure .titulo {
@@ -74,15 +74,15 @@ figure .titulo {
   text-shadow: 1px 1px black;
 }
 figure h1.titulo {
-  font-size: 50px;
-  letter-spacing: 3px;
+  font-size: 40px;
+  letter-spacing: 2px;
   margin: 15% 20% 0% 20%;
-  padding-bottom: 30px;
+  padding-bottom: 50px;
 }
 figure h2.titulo {
   padding-top: 20px;
-  font-size: 30px;
-  margin: 0 30% 0 30%;
+  font-size: 25px;
+  margin: 0 20% 0 20%;
   border-top: 3px solid white;
   padding-bottom: 30px;
   letter-spacing: 2px;  
@@ -202,7 +202,7 @@ footer .container {
   header #logo {
     position: relative;
     width: 100%;
-    margin-left: 0px;
+    margin-left: 1px 50px 0px 50px;
     text-align: center;
   }
   .menu {
